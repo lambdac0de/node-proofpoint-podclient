@@ -1,0 +1,16 @@
+{
+    "uri" : {
+        "base" : "wss://logstream.proofpoint.com",
+        "stream" : "/v1/stream"
+    },
+    "host" : "logstream.proofpoint.com:443",
+    "token_file" : "jwt.token",
+    "cluster_id" : "",
+    "customer_id" : "",
+    "type" : "",
+    "batchSize" : 100,
+    "proxy" : {
+	    "host" : "",
+	    "port" : 8080
+    }
+}

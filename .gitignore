@@ -1,0 +1,11 @@
+# Do not commit node modules
+node_modules/
+
+# Do not commit tokens
+*.token
+
+# Do not commit lock files
+*-lock.*
+
+# Do not commit log files
+log/*.txt

@@ -1,0 +1,16 @@
+{
+  "name": "podclient",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "dependencies": {
+    "https-proxy-agent": "^2.2.1",
+    "ws": "^6.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luis Aguja",
+  "license": "ISC"
+}
